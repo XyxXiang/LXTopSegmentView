@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LXTopSegmentView_Example' do
+  pod 'LXTopSegmentView', :path => '../'
+
+  target 'LXTopSegmentView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
