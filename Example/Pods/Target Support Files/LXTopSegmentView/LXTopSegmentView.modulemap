@@ -1,0 +1,6 @@
+framework module LXTopSegmentView {
+  umbrella header "LXTopSegmentView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LXTopSegmentView (0.1.0)
+
+DEPENDENCIES:
+  - LXTopSegmentView (from `../`)
+
+EXTERNAL SOURCES:
+  LXTopSegmentView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LXTopSegmentView: 03df368d51da550e1c69553aeb5b40b4546f2bb0
+
+PODFILE CHECKSUM: a78753406cc52b21712c3c630e42f7f637f87349
+
+COCOAPODS: 1.4.0
